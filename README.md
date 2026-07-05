@@ -78,6 +78,7 @@ The Campaign page provides a comprehensive analysis of marketing campaign perfor
 - Uses a scatter plot to compare campaign performance based on ROAS and Revenue from Ads, helping identify campaigns with strong scaling potential.
 - Includes a campaign performance table with conditional formatting for quick comparison across multiple marketing KPIs.
 - Supports drill-through navigation to analyze the detailed performance of each campaign.
+
 **Business Value**
 - Compare campaign effectiveness using marketing and profitability metrics.
 - Identify high-performing campaigns that deserve additional budget.
@@ -94,6 +95,7 @@ The Campaign Drill-through page provides an in-depth analysis of an individual m
 - Analyzes revenue contribution by individual products.
 - Visualizes campaign funnel performance from impressions to completed orders.
 - Provides a detailed performance table with daily trends, sparklines, and campaign-level marketing KPIs for comparison.
+
 **Business Value**
 - Evaluate the effectiveness of an individual campaign.
 - Identify which campaign variations generate the highest return.
@@ -112,6 +114,7 @@ The Product page analyzes marketing performance from a product perspective. It e
 - Compares Organic and Paid (Ads) revenue contribution.
 - Analyzes product sales distribution by size.
 - Provides detailed performance tables for both campaign and SKU levels with conditional formatting for quick comparison.
+
 **Business Value**
 - Identify the most profitable product categories and SKUs.
 - Compare organic and paid sales contributions across products.
