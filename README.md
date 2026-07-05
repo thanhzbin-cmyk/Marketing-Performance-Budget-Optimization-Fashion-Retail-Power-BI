@@ -114,7 +114,7 @@ The Product page analyzes marketing performance from a product perspective. It e
 - Compares Organic and Paid (Ads) revenue contribution.
 - Analyzes product sales distribution by size.
 - Provides detailed performance tables for both campaign and SKU levels with conditional formatting for quick comparison.
-
+  
 **Business Value**
 - Identify the most profitable product categories and SKUs.
 - Compare organic and paid sales contributions across products.
