@@ -1,4 +1,4 @@
-# Marketing-Performance-Budget-Optimization-Fashion-Retail-Power-BI
+# Marketing Performance Budget Optimization Fashion | Retail | Power BI
 A Power BI dashboard analyzing marketing campaign performance and sales effectiveness for a fashion retail business. The project integrates sales, product, and campaign data to evaluate marketing ROI, optimize advertising budgets, and support data-driven business decisions through Power Query, DAX, and interactive visualizations.
 <img width="1784" height="882" alt="image" src="https://github.com/user-attachments/assets/9a546f0b-516f-4e0b-873a-b4a86d5d94fe" />
 
